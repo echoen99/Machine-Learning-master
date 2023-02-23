@@ -15,4 +15,5 @@ utils.printProgress = (count,max)=>{
 
 if (typeof module !== "undefined") {
     module.exports=utils;
+    
 }
